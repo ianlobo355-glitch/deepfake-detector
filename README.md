@@ -85,6 +85,6 @@ http://localhost:5000
 
 ### NOTES
 
--Trained model weights and datasets are intentionally not uploaded
--The project is intended for academic and research purposes
--The application is designed for local execution
+- Trained model weights and datasets are intentionally not uploaded
+- The project is intended for academic and research purposes
+- The application is designed for local execution
